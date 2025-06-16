@@ -37,3 +37,19 @@ A simple and interactive web-based tool built with **Python**, **Streamlit**, an
    ```bash
    git clone https://github.com/yourusername/accessibility-analyzer.git
    cd accessibility-analyzer
+   Install Dependencies
+
+bash
+Copy
+Edit
+pip install -r requirements.txt
+Download ChromeDriver
+Make sure ChromeDriver version matches your installed Chrome version.
+Download here
+
+Run the App
+
+bash
+Copy
+Edit
+streamlit run app.py
