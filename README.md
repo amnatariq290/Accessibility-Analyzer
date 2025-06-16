@@ -26,7 +26,8 @@ A simple and interactive web-based tool built with **Python**, **Streamlit**, an
 
 ## 📸 UI Preview
 
->![Screenshot of Accessibility Analyzer](screenshots.png)
+[![Streamlit App](https://img.shields.io/badge/Streamlit-Live--Demo-brightgreen?logo=streamlit)](https://accessibility-analyzer-gshlrpnmappekraaijaqhe7.streamlit.app/)
+
 
 
 ---
